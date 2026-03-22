@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sidhesh Parab</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working with **VAST on multiple projects based on tech stack MERN stack**
+- 🔭 I’m currently working with **Cyncly on multiple projects based on tech stack MERN stack**
 
-- 🌱 I’m currently learning **Nestjs, Vue.js, Python**
+- 🌱 I’m currently learning **Nestjs, Three.Js**
 
 - 💬 Ask me about **Reactjs, Feathersjs**
 
